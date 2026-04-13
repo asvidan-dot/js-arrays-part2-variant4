@@ -27,6 +27,6 @@
 Алгоритми протестовані на масивах з від'ємними числами, дублікатами та специфічних наборах даних (ціни акцій, вікна).
 
 ## Demo відео
-
+https://drive.google.com/file/d/1dw-YvGJsgvBi2LDmezzrBh2NT_FPcac3/view?usp=sharing
 
 
